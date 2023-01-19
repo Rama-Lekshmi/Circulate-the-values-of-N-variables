@@ -29,6 +29,6 @@ l=eval(input())
 n=int(input())
 ```
 ## Output:
-![](circ.png)
+![](cir.png)
 ## Result:
 Thus circulation of N values is done
